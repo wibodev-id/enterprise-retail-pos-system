@@ -7,6 +7,22 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](./screenshots/dashboard.png)
+*Main dashboard with sales statistics, charts, and best-selling products*
+
+### Point of Sale Interface
+![POS Cashier](./screenshots/pos-cashier.png)
+*Real-time cashier interface with barcode scanning support*
+
+### Approval Workflow
+![Approval Workflow](./screenshots/approval-workflow.png)
+*Multi-level approval system for critical operations*
+
+---
+
 ## 📋 Project Overview
 
 An **enterprise-level Point of Sale (POS)** and **Inventory Management System** built for multi-location retail operations. This system handles real-time transactions, stock management across multiple locations, and complex approval workflows.
